@@ -1,0 +1,29 @@
+/* .label {
+  padding: 0.75rem 1rem;
+  margin: 1rem;
+  font-weight: bold;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  border: 1px solid #7E7E7E;
+  color: #7E7E7E;
+}
+
+.label--positive {
+  background-color: #A0FFAA;
+  color: white;
+  border: none;
+}
+
+.label--negative {
+  background-color: #FFA0A0;
+  color: white;
+  border: none;
+}
+
+.container {
+  margin: 2rem;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+} */
